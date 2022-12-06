@@ -1,0 +1,374 @@
+
+
+
+materialPath: D:\steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\MatiasPC\Desktop\koulu reworked\koulu_d.vmf
+Map revision 4
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (3915.84 -1413.00 32.25) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1096 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1039859 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1761 texinfos to 826
+Reduced 168 texdatas to 142 (7174 bytes to 6249)
+Writing C:\Users\MatiasPC\Desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+LoadPortals: couldn't read c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+
+
+
+materialPath: D:\steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\MatiasPC\Desktop\koulu reworked\koulu_d.vmf
+Map revision 9
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (112.76 -2808.22 26.56) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1096 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1041051 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1781 texinfos to 826
+Reduced 168 texdatas to 142 (7174 bytes to 6249)
+Writing C:\Users\MatiasPC\Desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+LoadPortals: couldn't read c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+
+
+
+materialPath: D:\steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matiaspc\desktop\koulu reworked\koulu_d.vmf
+Map revision 9
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (112.76 -2808.22 26.56) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1096 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1041051 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1781 texinfos to 826
+Reduced 168 texdatas to 142 (7174 bytes to 6249)
+Writing c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+LoadPortals: couldn't read c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+
+
+
+materialPath: D:\steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matiaspc\desktop\koulu reworked\koulu_d.vmf
+Map revision 9
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (112.76 -2808.22 26.56) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1096 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1041051 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1781 texinfos to 826
+Reduced 168 texdatas to 142 (7174 bytes to 6249)
+Writing c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+LoadPortals: couldn't read c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+
+
+
+materialPath: D:\steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matiaspc\desktop\koulu reworked\koulu_d.vmf
+Map revision 13
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (112.76 -2808.22 26.56) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1096 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1041051 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1785 texinfos to 826
+Reduced 168 texdatas to 142 (7174 bytes to 6249)
+Writing c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+LoadPortals: couldn't read c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+
+
+
+materialPath: D:\steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matiaspc\desktop\koulu reworked\koulu_d.vmf
+Map revision 14
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (112.76 -2808.22 26.56) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1096 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1041835 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1791 texinfos to 826
+Reduced 168 texdatas to 142 (7174 bytes to 6249)
+Writing c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+LoadPortals: couldn't read c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+
+
+
+materialPath: D:\steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matiaspc\desktop\koulu reworked\koulu_d.vmf
+Map revision 15
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1096 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1041051 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1788 texinfos to 826
+Reduced 168 texdatas to 142 (7174 bytes to 6249)
+Writing c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+reading c:\users\matiaspc\desktop\koulu reworked\koulu_d.prt
+2063 portalclusters
+6684 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 21288 visible clusters (0.00%)
+Total clusters visible: 1437875
+Average clusters visible: 696
+Building PAS...
+Average clusters audible: 2032
+visdatasize:965109  compressed from 1089264
+writing c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+31 minutes, 27 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+9823 faces
+12 degenerate faces
+989815 square feet [142533456.00 square inches]
+14 Displacements
+34093 Square Feet [4909414.00 Square Inches]
+9811 patches before subdivision
+67479 patches after subdivision
+70 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6941347, max 1433
+transfer lists:  53.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(284776, 229362, 190444)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(72793, 55454, 35950)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(25942, 19584, 11397)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(10092, 7324, 3832)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(4298, 2973, 1456)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1831, 1221, 570)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(808, 516, 232)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(356, 221, 96)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(160, 96, 41)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(72, 43, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(33, 19, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(15, 9, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(7, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(3, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(2, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0147 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  70/1024         3360/49152    ( 6.8%) 
+brushes               2784/8192        33408/98304    (34.0%) 
+brushsides           19000/81920      152000/655360   (23.2%) 
+planes                9762/65536      195240/1310720  (14.9%) 
+vertexes             20778/65536      249336/786432   (31.7%) 
+nodes                 4370/65536      139840/2097152  ( 6.7%) 
+texinfos               826/12288       59472/884736   ( 6.7%) 
+texdata                142/4096         4544/131072   ( 3.5%) 
+dispinfos               14/0            2464/0        ( 0.0%) 
+disp_verts            2478/0           49560/0        ( 0.0%) 
+disp_tris             4288/0            8576/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       86953/0           86953/0        ( 0.0%) 
+faces                 9823/65536      550088/3670016  (15.0%) 
+hdr faces             9823/65536      550088/3670016  (15.0%) 
+origfaces             7035/65536      393960/3670016  (10.7%) 
+facebrushes           1196/0            2392/0        ( 0.0%) 
+facebrushlists        9823/0           39292/0        ( 0.0%) 
+leaves                4441/65536      142112/2097152  ( 6.8%) 
+leaffaces            12430/65536       24860/131072   (19.0%) 
+leafbrushes           5318/65536       10636/131072   ( 8.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            79038/512000     316152/2048000  (15.4%) 
+edges                54366/256000     217464/1024000  (21.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         70/8192         7000/819200   ( 0.9%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1509/32768       15090/327680   ( 4.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         29169/65536       58338/131072   (44.5%) 
+cubemapsamples          13/1024          208/16384    ( 1.3%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     7321964/0        ( 0.0%) 
+visdata               [variable]      965109/16777216 ( 5.8%) 
+entdata               [variable]      140954/393216   (35.8%) 
+LDR ambient table     4441/65536       17764/262144   ( 6.8%) 
+HDR ambient table     4441/65536       17764/262144   ( 6.8%) 
+LDR leaf ambient      4441/65536      124348/1835008  ( 6.8%) 
+HDR leaf ambient     18538/65536      519064/1835008  (28.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/35978    ( 0.0%) 
+pakfile               [variable]     4144966/0        ( 0.0%) 
+physics               [variable]     1041051/4194304  (24.8%) 
+physics terrain       [variable]        1437/1048576  ( 0.1%) 
+
+Level flags = 7e
+
+Total triangle count: 31209
+Writing c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matiaspc\desktop\koulu reworked\koulu_d.bsp', but we don't own that location. Allowing...
+3 minutes, 39 seconds elapsed
