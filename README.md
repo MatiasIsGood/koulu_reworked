@@ -1,2 +1,2 @@
 # koulu_reworked
- koulu_reworked
+ csgo map koulu_reworked
