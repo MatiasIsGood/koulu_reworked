@@ -4822,3 +4822,254 @@ Total triangle count: 31358
 Writing c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp', but we don't own that location. Allowing...
 56 seconds elapsed
+
+
+
+materialPath: O:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matias\documents\github\koulu_reworked\koulu_d.vmf
+Map revision 215
+Patching WVT material: maps/koulu_d/de_aztec/hr_aztec/hr_aztec_blend_roofstone01-grounddirt01_wvt_patch
+Patching WVT material: maps/koulu_d/anubis/hay_dirt_blend01_wvt_patch
+Patching WVT material: maps/koulu_d/anubis/hr_stone_floor02b_sand_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -2788.5 257.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -2788.5 257.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-80.0 -2785.0 211.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 206687: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-80.0 -2811.5 227.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 206687: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1168 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\matias\documents\github\koulu_reworked\koulu_d.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1090273 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2532 texinfos to 1176
+Reduced 198 texdatas to 167 (8554 bytes to 7461)
+Writing c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp
+reading c:\users\matias\documents\github\koulu_reworked\koulu_d.prt
+2192 portalclusters
+7186 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 156632 visible clusters (0.00%)
+Total clusters visible: 4026854
+Average clusters visible: 1837
+Building PAS...
+Average clusters audible: 2186
+visdatasize:1191432  compressed from 1227520
+writing c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp', but we don't own that location. Allowing...
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp
+9965 faces
+12 degenerate faces
+997164 square feet [143591648.00 square inches]
+17 Displacements
+35561 Square Feet [5120871.50 Square Inches]
+9953 patches before subdivision
+64523 patches after subdivision
+75 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7107415, max 1481
+transfer lists:  54.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(336311, 264105, 195216)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(106020, 75094, 41294)
+Build Patch/Sample Hash Table(s).....Done<0.0124 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  73/1024         3504/49152    ( 7.1%) 
+brushes               2912/8192        34944/98304    (35.5%) 
+brushsides           20041/81920      160328/655360   (24.5%) 
+planes               10920/65536      218400/1310720  (16.7%) 
+vertexes             21913/65536      262956/786432   (33.4%) 
+nodes                 4684/65536      149888/2097152  ( 7.1%) 
+texinfos              1176/12288       84672/884736   ( 9.6%) 
+texdata                167/4096         5344/131072   ( 4.1%) 
+dispinfos               17/0            2992/0        ( 0.0%) 
+disp_verts            3345/0           66900/0        ( 0.0%) 
+disp_tris             5824/0           11648/0        ( 0.0%) 
+disp_multiblend        289/0           23120/0        ( 0.0%) 
+disp_lmsamples       92338/0           92338/0        ( 0.0%) 
+faces                 9965/65536      558040/3670016  (15.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7280/65536      407680/3670016  (11.1%) 
+facebrushes           1265/0            2530/0        ( 0.0%) 
+facebrushlists        9965/0           39860/0        ( 0.0%) 
+leaves                4758/65536      152256/2097152  ( 7.3%) 
+leaffaces            12936/65536       25872/131072   (19.7%) 
+leafbrushes           5821/65536       11642/131072   ( 8.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            80801/512000     323204/2048000  (15.8%) 
+edges                55894/256000     223576/1024000  (21.8%) 
+LDR worldlights         75/8192         7500/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1546/32768       15460/327680   ( 4.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         29943/65536       59886/131072   (45.7%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]     6395880/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1191432/16777216 ( 7.1%) 
+entdata               [variable]      153379/393216   (39.0%) 
+LDR ambient table     4758/65536       19032/262144   ( 7.3%) 
+HDR ambient table     4758/65536       19032/262144   ( 7.3%) 
+LDR leaf ambient     19552/65536      547456/1835008  (29.8%) 
+HDR leaf ambient      4758/65536      133224/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/36962    ( 0.0%) 
+pakfile               [variable]     4371204/0        ( 0.0%) 
+physics               [variable]     1090273/4194304  (26.0%) 
+physics terrain       [variable]        2395/1048576  ( 0.2%) 
+
+Level flags = 7d
+
+Total triangle count: 31719
+Writing c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp', but we don't own that location. Allowing...
+59 seconds elapsed
+
+
+
+materialPath: O:\SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matias\documents\github\koulu_reworked\koulu_d.vmf
+Map revision 215
+Patching WVT material: maps/koulu_d/de_aztec/hr_aztec/hr_aztec_blend_roofstone01-grounddirt01_wvt_patch
+Patching WVT material: maps/koulu_d/anubis/hay_dirt_blend01_wvt_patch
+Patching WVT material: maps/koulu_d/anubis/hr_stone_floor02b_sand_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -2788.5 257.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -2788.5 257.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-80.0 -2785.0 211.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 206687: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-80.0 -2811.5 227.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 206687: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1168 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\matias\documents\github\koulu_reworked\koulu_d.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (1090273 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2532 texinfos to 1176
+Reduced 198 texdatas to 167 (8554 bytes to 7461)
+Writing c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp', but we don't own that location. Allowing...
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\matias\documents\github\koulu_reworked\koulu_d.bsp
+reading c:\users\matias\documents\github\koulu_reworked\koulu_d.prt
+2192 portalclusters
+7186 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2
