@@ -5850,3 +5850,857 @@ Total triangle count: 31679
 Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
 MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
 5 minutes, 7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.vmf
+Map revision 252
+Patching WVT material: maps/de_koulu_reworked/de_aztec/hr_aztec/hr_aztec_blend_roofstone01-grounddirt01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hay_dirt_blend01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hr_stone_floor02b_sand_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -2788.5 257.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2: 
+
+0...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 -2788.5 257.8)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 2: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-80.0 -2785.0 211.9)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 206687: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-80.0 -2811.5 227.2)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 206687: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1144 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1118169 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2674 texinfos to 1208
+Reduced 199 texdatas to 168 (9846 bytes to 8653)
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt
+2208 portalclusters
+7279 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 167637 visible clusters (0.00%)
+Total clusters visible: 4067591
+Average clusters visible: 1842
+Building PAS...
+Average clusters audible: 2202
+visdatasize:1209349  compressed from 1236480
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+9991 faces
+12 degenerate faces
+994559 square feet [143216512.00 square inches]
+17 Displacements
+35561 Square Feet [5120871.50 Square Inches]
+9979 patches before subdivision
+64669 patches after subdivision
+75 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7103476, max 1478
+transfer lists:  54.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(340376, 267368, 197820)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(106934, 75839, 41920)
+Build Patch/Sample Hash Table(s).....Done<0.0154 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  73/1024         3504/49152    ( 7.1%) 
+brushes               2952/8192        35424/98304    (36.0%) 
+brushsides           20302/81920      162416/655360   (24.8%) 
+planes               11150/65536      223000/1310720  (17.0%) 
+vertexes             22012/65536      264144/786432   (33.6%) 
+nodes                 4698/65536      150336/2097152  ( 7.2%) 
+texinfos              1208/12288       86976/884736   ( 9.8%) 
+texdata                168/4096         5376/131072   ( 4.1%) 
+dispinfos               17/0            2992/0        ( 0.0%) 
+disp_verts            3345/0           66900/0        ( 0.0%) 
+disp_tris             5824/0           11648/0        ( 0.0%) 
+disp_multiblend        289/0           23120/0        ( 0.0%) 
+disp_lmsamples       92338/0           92338/0        ( 0.0%) 
+faces                 9991/65536      559496/3670016  (15.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7312/65536      409472/3670016  (11.2%) 
+facebrushes           1266/0            2532/0        ( 0.0%) 
+facebrushlists        9991/0           39964/0        ( 0.0%) 
+leaves                4772/65536      152704/2097152  ( 7.3%) 
+leaffaces            12934/65536       25868/131072   (19.7%) 
+leafbrushes           5855/65536       11710/131072   ( 8.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            81060/512000     324240/2048000  (15.8%) 
+edges                56100/256000     224400/1024000  (21.9%) 
+LDR worldlights         75/8192         7500/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1560/32768       15600/327680   ( 4.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         30117/65536       60234/131072   (46.0%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]     6396380/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1209349/16777216 ( 7.2%) 
+entdata               [variable]      157139/393216   (40.0%) 
+LDR ambient table     4772/65536       19088/262144   ( 7.3%) 
+HDR ambient table     4772/65536       19088/262144   ( 7.3%) 
+LDR leaf ambient     19545/65536      547260/1835008  (29.8%) 
+HDR leaf ambient      4772/65536      133616/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/37054    ( 0.0%) 
+pakfile               [variable]     4378792/0        ( 0.0%) 
+physics               [variable]     1118169/4194304  (26.7%) 
+physics terrain       [variable]        2395/1048576  ( 0.2%) 
+
+Level flags = 7d
+
+Total triangle count: 31798
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+2 minutes, 32 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.vmf
+Map revision 261
+Patching WVT material: maps/de_koulu_reworked/de_aztec/hr_aztec/hr_aztec_blend_roofstone01-grounddirt01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hay_dirt_blend01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hr_stone_floor02b_sand_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1144 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1118061 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...Error! detail_prop using model "models/props_c17/chair_stool01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_c17/chair_stool01a.mdl"!
+Error! detail_prop using model "models/props_interiors/furniture_chair03a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/furniture_chair03a.mdl"!
+10
+Compacting texture/material tables...
+Reduced 2682 texinfos to 1207
+Reduced 205 texdatas to 168 (10275 bytes to 8653)
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt
+2212 portalclusters
+7284 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 168661 visible clusters (0.00%)
+Total clusters visible: 4082127
+Average clusters visible: 1845
+Building PAS...
+Average clusters audible: 2206
+visdatasize:1214913  compressed from 1238720
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+9995 faces
+12 degenerate faces
+994478 square feet [143204896.00 square inches]
+17 Displacements
+35561 Square Feet [5120871.50 Square Inches]
+9983 patches before subdivision
+64563 patches after subdivision
+76 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7098335, max 1478
+transfer lists:  54.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(334375, 264212, 194770)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(106729, 76098, 42053)
+Build Patch/Sample Hash Table(s).....Done<0.0145 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               2951/8192        35412/98304    (36.0%) 
+brushsides           20290/81920      162320/655360   (24.8%) 
+planes               11130/65536      222600/1310720  (17.0%) 
+vertexes             21991/65536      263892/786432   (33.6%) 
+nodes                 4707/65536      150624/2097152  ( 7.2%) 
+texinfos              1207/12288       86904/884736   ( 9.8%) 
+texdata                168/4096         5376/131072   ( 4.1%) 
+dispinfos               17/0            2992/0        ( 0.0%) 
+disp_verts            3345/0           66900/0        ( 0.0%) 
+disp_tris             5824/0           11648/0        ( 0.0%) 
+disp_multiblend        289/0           23120/0        ( 0.0%) 
+disp_lmsamples       92338/0           92338/0        ( 0.0%) 
+faces                 9995/65536      559720/3670016  (15.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7311/65536      409416/3670016  (11.2%) 
+facebrushes           1268/0            2536/0        ( 0.0%) 
+facebrushlists        9995/0           39980/0        ( 0.0%) 
+leaves                4782/65536      153024/2097152  ( 7.3%) 
+leaffaces            12959/65536       25918/131072   (19.8%) 
+leafbrushes           5863/65536       11726/131072   ( 8.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            81033/512000     324132/2048000  (15.8%) 
+edges                56075/256000     224300/1024000  (21.9%) 
+LDR worldlights         76/8192         7600/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1555/32768       15550/327680   ( 4.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         30048/65536       60096/131072   (45.8%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]     6355712/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1214913/16777216 ( 7.2%) 
+entdata               [variable]      158128/393216   (40.2%) 
+LDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+HDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+LDR leaf ambient     19497/65536      545916/1835008  (29.8%) 
+HDR leaf ambient      4782/65536      133896/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/708      ( 0.1%) 
+dtl prp lght          [variable]           1/4        (25.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/37126    ( 0.0%) 
+pakfile               [variable]     4386393/0        ( 0.0%) 
+physics               [variable]     1118061/4194304  (26.7%) 
+physics terrain       [variable]        2395/1048576  ( 0.2%) 
+
+Level flags = 7d
+
+Total triangle count: 31763
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 minute, 58 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.vmf
+Map revision 262
+Patching WVT material: maps/de_koulu_reworked/de_aztec/hr_aztec/hr_aztec_blend_roofstone01-grounddirt01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hay_dirt_blend01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hr_stone_floor02b_sand_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1144 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1118061 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2682 texinfos to 1207
+Reduced 205 texdatas to 168 (10275 bytes to 8653)
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt
+2212 portalclusters
+7284 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 168661 visible clusters (0.00%)
+Total clusters visible: 4082127
+Average clusters visible: 1845
+Building PAS...
+Average clusters audible: 2206
+visdatasize:1214913  compressed from 1238720
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+9995 faces
+12 degenerate faces
+994478 square feet [143204896.00 square inches]
+17 Displacements
+35561 Square Feet [5120871.50 Square Inches]
+9983 patches before subdivision
+64563 patches after subdivision
+76 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7098335, max 1478
+transfer lists:  54.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(334375, 264212, 194770)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(106729, 76098, 42053)
+Build Patch/Sample Hash Table(s).....Done<0.0146 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               2951/8192        35412/98304    (36.0%) 
+brushsides           20290/81920      162320/655360   (24.8%) 
+planes               11130/65536      222600/1310720  (17.0%) 
+vertexes             21991/65536      263892/786432   (33.6%) 
+nodes                 4707/65536      150624/2097152  ( 7.2%) 
+texinfos              1207/12288       86904/884736   ( 9.8%) 
+texdata                168/4096         5376/131072   ( 4.1%) 
+dispinfos               17/0            2992/0        ( 0.0%) 
+disp_verts            3345/0           66900/0        ( 0.0%) 
+disp_tris             5824/0           11648/0        ( 0.0%) 
+disp_multiblend        289/0           23120/0        ( 0.0%) 
+disp_lmsamples       92338/0           92338/0        ( 0.0%) 
+faces                 9995/65536      559720/3670016  (15.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7311/65536      409416/3670016  (11.2%) 
+facebrushes           1268/0            2536/0        ( 0.0%) 
+facebrushlists        9995/0           39980/0        ( 0.0%) 
+leaves                4782/65536      153024/2097152  ( 7.3%) 
+leaffaces            12959/65536       25918/131072   (19.8%) 
+leafbrushes           5863/65536       11726/131072   ( 8.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            81033/512000     324132/2048000  (15.8%) 
+edges                56075/256000     224300/1024000  (21.9%) 
+LDR worldlights         76/8192         7600/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1555/32768       15550/327680   ( 4.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         30048/65536       60096/131072   (45.8%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]     6355712/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1214913/16777216 ( 7.2%) 
+entdata               [variable]      170042/393216   (43.2%) 
+LDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+HDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+LDR leaf ambient     19497/65536      545916/1835008  (29.8%) 
+HDR leaf ambient      4782/65536      133896/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/37126    ( 0.0%) 
+pakfile               [variable]     4386393/0        ( 0.0%) 
+physics               [variable]     1118061/4194304  (26.7%) 
+physics terrain       [variable]        2395/1048576  ( 0.2%) 
+
+Level flags = 7d
+
+Total triangle count: 31763
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+2 minutes, 5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.vmf
+Map revision 266
+Patching WVT material: maps/de_koulu_reworked/de_aztec/hr_aztec/hr_aztec_blend_roofstone01-grounddirt01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hay_dirt_blend01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hr_stone_floor02b_sand_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1144 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+done (0)
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1118061 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2691 texinfos to 1207
+Reduced 205 texdatas to 168 (10275 bytes to 8653)
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt
+2212 portalclusters
+7284 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 168661 visible clusters (0.00%)
+Total clusters visible: 4082127
+Average clusters visible: 1845
+Building PAS...
+Average clusters audible: 2206
+visdatasize:1214913  compressed from 1238720
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+9996 faces
+12 degenerate faces
+994478 square feet [143204896.00 square inches]
+18 Displacements
+37024 Square Feet [5331512.00 Square Inches]
+9984 patches before subdivision
+64564 patches after subdivision
+76 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7098350, max 1478
+transfer lists:  54.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(334375, 264213, 194771)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(106730, 76098, 42054)
+Build Patch/Sample Hash Table(s).....Done<0.0144 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               2951/8192        35412/98304    (36.0%) 
+brushsides           20290/81920      162320/655360   (24.8%) 
+planes               11132/65536      222640/1310720  (17.0%) 
+vertexes             21995/65536      263940/786432   (33.6%) 
+nodes                 4707/65536      150624/2097152  ( 7.2%) 
+texinfos              1207/12288       86904/884736   ( 9.8%) 
+texdata                168/4096         5376/131072   ( 4.1%) 
+dispinfos               18/0            3168/0        ( 0.0%) 
+disp_verts            3634/0           72680/0        ( 0.0%) 
+disp_tris             6336/0           12672/0        ( 0.0%) 
+disp_multiblend        578/0           46240/0        ( 0.0%) 
+disp_lmsamples       96499/0           96499/0        ( 0.0%) 
+faces                 9996/65536      559776/3670016  (15.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7312/65536      409472/3670016  (11.2%) 
+facebrushes           1268/0            2536/0        ( 0.0%) 
+facebrushlists        9996/0           39984/0        ( 0.0%) 
+leaves                4782/65536      153024/2097152  ( 7.3%) 
+leaffaces            12959/65536       25918/131072   (19.8%) 
+leafbrushes           5872/65536       11744/131072   ( 9.0%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            81041/512000     324164/2048000  (15.8%) 
+edges                56083/256000     224332/1024000  (21.9%) 
+LDR worldlights         76/8192         7600/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1555/32768       15550/327680   ( 4.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         30048/65536       60096/131072   (45.8%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]     6355712/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1214913/16777216 ( 7.2%) 
+entdata               [variable]      170042/393216   (43.2%) 
+LDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+HDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+LDR leaf ambient     19497/65536      545916/1835008  (29.8%) 
+HDR leaf ambient      4782/65536      133896/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/37126    ( 0.0%) 
+pakfile               [variable]     4386393/0        ( 0.0%) 
+physics               [variable]     1118061/4194304  (26.7%) 
+physics terrain       [variable]        2397/1048576  ( 0.2%) 
+
+Level flags = 7d
+
+Total triangle count: 31765
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 minute, 58 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.vmf
+Map revision 268
+Patching WVT material: maps/de_koulu_reworked/de_aztec/hr_aztec/hr_aztec_blend_roofstone01-grounddirt01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hay_dirt_blend01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hr_stone_floor02b_sand_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1144 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1117309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2682 texinfos to 1207
+Reduced 205 texdatas to 168 (10275 bytes to 8653)
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt
+2212 portalclusters
+7284 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 168661 visible clusters (0.00%)
+Total clusters visible: 4082127
+Average clusters visible: 1845
+Building PAS...
+Average clusters audible: 2206
+visdatasize:1214913  compressed from 1238720
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+9995 faces
+12 degenerate faces
+994616 square feet [143224800.00 square inches]
+17 Displacements
+35598 Square Feet [5126173.50 Square Inches]
+9983 patches before subdivision
+64565 patches after subdivision
+76 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7101423, max 1478
+transfer lists:  54.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(334399, 264240, 194783)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(106735, 76100, 42055)
+Build Patch/Sample Hash Table(s).....Done<0.0142 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               2949/8192        35388/98304    (36.0%) 
+brushsides           20278/81920      162224/655360   (24.8%) 
+planes               11124/65536      222480/1310720  (17.0%) 
+vertexes             21990/65536      263880/786432   (33.6%) 
+nodes                 4707/65536      150624/2097152  ( 7.2%) 
+texinfos              1207/12288       86904/884736   ( 9.8%) 
+texdata                168/4096         5376/131072   ( 4.1%) 
+dispinfos               17/0            2992/0        ( 0.0%) 
+disp_verts            3345/0           66900/0        ( 0.0%) 
+disp_tris             5824/0           11648/0        ( 0.0%) 
+disp_multiblend        289/0           23120/0        ( 0.0%) 
+disp_lmsamples       92500/0           92500/0        ( 0.0%) 
+faces                 9995/65536      559720/3670016  (15.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7311/65536      409416/3670016  (11.2%) 
+facebrushes           1268/0            2536/0        ( 0.0%) 
+facebrushlists        9995/0           39980/0        ( 0.0%) 
+leaves                4782/65536      153024/2097152  ( 7.3%) 
+leaffaces            12959/65536       25918/131072   (19.8%) 
+leafbrushes           5857/65536       11714/131072   ( 8.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            81033/512000     324132/2048000  (15.8%) 
+edges                56075/256000     224300/1024000  (21.9%) 
+LDR worldlights         76/8192         7600/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1555/32768       15550/327680   ( 4.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         30048/65536       60096/131072   (45.8%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]     6356528/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1214913/16777216 ( 7.2%) 
+entdata               [variable]      170042/393216   (43.2%) 
+LDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+HDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+LDR leaf ambient     19500/65536      546000/1835008  (29.8%) 
+HDR leaf ambient      4782/65536      133896/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/37126    ( 0.0%) 
+pakfile               [variable]     4386393/0        ( 0.0%) 
+physics               [variable]     1117309/4194304  (26.6%) 
+physics terrain       [variable]        2395/1048576  ( 0.2%) 
+
+Level flags = 7d
+
+Total triangle count: 31763
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 minute, 59 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.vmf
+Map revision 271
+Patching WVT material: maps/de_koulu_reworked/de_aztec/hr_aztec/hr_aztec_blend_roofstone01-grounddirt01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hay_dirt_blend01_wvt_patch
+Patching WVT material: maps/de_koulu_reworked/anubis/hr_stone_floor02b_sand_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1144 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt...Building visibility clusters...
+AutoVisClustering (threshold=-1) matched 0 leafs.
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (1117309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2682 texinfos to 1207
+Reduced 205 texdatas to 168 (10275 bytes to 8653)
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+reading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.prt
+2212 portalclusters
+7284 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 168661 visible clusters (0.00%)
+Total clusters visible: 4082127
+Average clusters visible: 1845
+Building PAS...
+Average clusters audible: 2206
+visdatasize:1214913  compressed from 1238720
+writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[40 texlights parsed from 'lights.rad']
+
+Loading c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+9995 faces
+12 degenerate faces
+994616 square feet [143224800.00 square inches]
+17 Displacements
+35598 Square Feet [5126173.50 Square Inches]
+9983 patches before subdivision
+64565 patches after subdivision
+76 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 7101423, max 1478
+transfer lists:  54.2 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(334399, 264240, 194783)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(106735, 76100, 42055)
+Build Patch/Sample Hash Table(s).....Done<0.0151 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  74/1024         3552/49152    ( 7.2%) 
+brushes               2949/8192        35388/98304    (36.0%) 
+brushsides           20278/81920      162224/655360   (24.8%) 
+planes               11124/65536      222480/1310720  (17.0%) 
+vertexes             21990/65536      263880/786432   (33.6%) 
+nodes                 4707/65536      150624/2097152  ( 7.2%) 
+texinfos              1207/12288       86904/884736   ( 9.8%) 
+texdata                168/4096         5376/131072   ( 4.1%) 
+dispinfos               17/0            2992/0        ( 0.0%) 
+disp_verts            3345/0           66900/0        ( 0.0%) 
+disp_tris             5824/0           11648/0        ( 0.0%) 
+disp_multiblend        289/0           23120/0        ( 0.0%) 
+disp_lmsamples       92500/0           92500/0        ( 0.0%) 
+faces                 9995/65536      559720/3670016  (15.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7311/65536      409416/3670016  (11.2%) 
+facebrushes           1268/0            2536/0        ( 0.0%) 
+facebrushlists        9995/0           39980/0        ( 0.0%) 
+leaves                4782/65536      153024/2097152  ( 7.3%) 
+leaffaces            12959/65536       25918/131072   (19.8%) 
+leafbrushes           5857/65536       11714/131072   ( 8.9%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            81033/512000     324132/2048000  (15.8%) 
+edges                56075/256000     224300/1024000  (21.9%) 
+LDR worldlights         76/8192         7600/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1555/32768       15550/327680   ( 4.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         30048/65536       60096/131072   (45.8%) 
+cubemapsamples          15/1024          240/16384    ( 1.5%) 
+overlays                 4/1024         1408/360448   ( 0.4%) 
+LDR lightdata         [variable]     6356528/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1214913/16777216 ( 7.2%) 
+entdata               [variable]      170815/393216   (43.4%) 
+LDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+HDR ambient table     4782/65536       19128/262144   ( 7.3%) 
+LDR leaf ambient     19500/65536      546000/1835008  (29.8%) 
+HDR leaf ambient      4782/65536      133896/1835008  ( 7.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/37126    ( 0.0%) 
+pakfile               [variable]     4386393/0        ( 0.0%) 
+physics               [variable]     1117309/4194304  (26.6%) 
+physics terrain       [variable]        2395/1048576  ( 0.2%) 
+
+Level flags = 7d
+
+Total triangle count: 31763
+Writing c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp
+MSG_FILEWRITE - Filesystem was asked to write to 'c:\users\matias\documents\github\koulu_reworked\de_koulu_reworked.bsp', but we don't own that location. Allowing...
+2 minutes, 23 seconds elapsed
