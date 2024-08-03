@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_interiors\furniture_chair03a.vmt"
+}

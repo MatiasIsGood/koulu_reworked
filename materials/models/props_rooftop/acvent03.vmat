@@ -1,0 +1,24 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_rooftop/acvent03_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureDetail"		"materials/detail/dt_metalgalv_detail.tga"
+	"g_vDetailTexCoordScale"		"[10.000000 5.000000]"
+	"g_flDetailBlendFactor"		"1.000000"
+	"F_DETAIL_TEXTURE"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models\props_rooftop\ACVent03"
+			"$detail"		"detail\dt_metalgalv"
+			"$detailscale"		"[ 10 5 ]"
+			"$detailblendfactor"		"1"
+			"$detailblendmode"		"0"
+		}
+	}
+}

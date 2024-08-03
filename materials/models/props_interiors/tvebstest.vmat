@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"materials/models/props_interiors/tvebstest_color.tga"
+	"F_BLEND_MODE"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"glass"
+	}
+	"legacy_import"
+	{
+		"UnLitGeneric"
+		{
+			"$baseTexture"		"models\props_interiors/TVebstest"
+			"$color2"		"[.43 .43 .43]"
+			"$surfaceprop"		"glass"
+			"$envmap"		"env_cubemap"
+			"$envmapmask"		"models\props_interiors\TVstatic_ref"
+		}
+	}
+}

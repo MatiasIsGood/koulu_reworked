@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_nuke\hr_nuke\nuke_cars\nuke_cars_color.vmt"
+	"file"	"materials\models\props\de_nuke\hr_nuke\nuke_cars\nuke_tires_color.vmt"
+}

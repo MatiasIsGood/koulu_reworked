@@ -1,0 +1,33 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_wasteland/controlroom_tables001_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.150000"
+	"TextureRoughness"		"materials/models/props_wasteland/controlroom_tables001_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"Models/props_wasteland/controlroom_tables001"
+			"$envmap"		"env_cubemap"
+			"$basealphaenvmapmask"		"1"
+			"$surfaceprop"		"metal"
+			"vertexlitgeneric_HDR_dx9"
+			{
+				"$envmaptint"		"[.15 .15 .15]"
+			}
+			"vertexlitgeneric_DX9"
+			{
+				"$envmaptint"		"[.15 .15 .15]"
+			}
+		}
+	}
+}

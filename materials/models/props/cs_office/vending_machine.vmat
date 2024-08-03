@@ -1,0 +1,20 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/cs_office/vending_machine_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureSelfIllumMask"		"materials/models/props/cs_office/vending_machine_selfillum.tga"
+	"F_SELF_ILLUM"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models\props\cs_office\vending_machine"
+			"$selfillum"		"1"
+			"$envmapmask"		"models\props\cs_office\vending_machine_ref"
+		}
+	}
+}

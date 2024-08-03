@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\props_utilities\hr_wall_cables_color.vmt"
+}

@@ -1,0 +1,25 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_doors/doorknobround_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"1.000000"
+	"TextureRoughness"		"materials/models/props_doors/doorknobround_ref_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models\Props_Doors/DoorKnobRound"
+			"$envmap"		"env_cubemap"
+			"$envmapmask"		"models\Props_Doors\DoorKnobRound_ref"
+			"$envmaptint"		"[1 1 1]"
+			"vertexlitgeneric_HDR_dx9"
+			{
+				"$envmaptint"		"[.5 .5 .5]"
+			}
+		}
+	}
+}

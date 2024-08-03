@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_office\fire_extinguisher.vmt"
+	"file"	"materials\models\props\cs_office\fire_extinguisher_de.vmt"
+}

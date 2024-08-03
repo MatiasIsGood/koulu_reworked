@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_office\trash_can.vmt"
+}

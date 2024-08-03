@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props_doors\doormainmetal01.vmt"
+	"file"	"materials\models\props_doors\doorknobround.vmt"
+}

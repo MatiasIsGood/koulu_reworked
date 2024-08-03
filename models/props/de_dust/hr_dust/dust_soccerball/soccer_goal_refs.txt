@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_fences\dust_chainlink_fence_001.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_wood_pallet\dust_wood_pallet.vmt"
+	"file"	"materials\models\props\de_dust\hr_dust\dust_fences\dust_chainlink_fence_wire_001.vmt"
+}

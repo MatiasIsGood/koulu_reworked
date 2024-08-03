@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_interiors\prison_heater001a_new_color.vmt"
+}

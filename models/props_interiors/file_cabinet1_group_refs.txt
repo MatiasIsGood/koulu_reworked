@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_interiors\file_cabinet1.vmt"
+}

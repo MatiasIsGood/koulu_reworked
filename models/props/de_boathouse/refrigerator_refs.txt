@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_interiors\refrigerator02.vmt"
+}

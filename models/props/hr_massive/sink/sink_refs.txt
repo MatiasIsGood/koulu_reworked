@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\hr_massive\sink\sink.vmt"
+}

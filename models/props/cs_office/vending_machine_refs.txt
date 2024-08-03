@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_office\vending_machine.vmt"
+	"file"	"materials\models\props\cs_office\vending_machine_off.vmt"
+}

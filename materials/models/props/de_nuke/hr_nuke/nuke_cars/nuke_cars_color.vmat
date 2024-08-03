@@ -1,0 +1,36 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_cars_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_cars_spec_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureTintMask"		"materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_cars_color_tintmask.tga"
+	"F_TINT_MASK"		"1"
+	"TextureDetail"		"materials/models/props/de_nuke/hr_nuke/nuke_cars/nuke_car_detail.tga"
+	"g_vDetailTexCoordScale"		"[7.000000 6.000000]"
+	"g_flDetailBlendFactor"		"1.000000"
+	"F_DETAIL_TEXTURE"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/nuke_cars/nuke_cars_color"
+			"$blendtintbybasealpha"		"1"
+			"$detail"		"models/props/de_nuke/hr_nuke/nuke_cars/nuke_car_detail"
+			"$detailscale"		"[7 6 6]"
+			"$detailblendfactor"		"1"
+			"$envmap"		"env_cubemap"
+			"$envmapfresnel"		"1"
+			"$envmapfresnelminmaxexp"		"[0.05 1 5.0]"
+			"$envmapmask"		"models/props/de_nuke/hr_nuke/nuke_cars/nuke_cars_spec"
+			"$surfaceprop"		"metal"
+		}
+	}
+}

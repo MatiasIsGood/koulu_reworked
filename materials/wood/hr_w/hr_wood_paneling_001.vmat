@@ -1,0 +1,27 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/wood/hr_w/hr_wood_paneling_001_color.tga"
+	"TextureLayer1Roughness"		"materials/wood/hr_w/hr_wood_paneling_001_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"wood"
+	}
+	"legacy_import"
+	{
+		"lightmappedgeneric"
+		{
+			"$basetexture"		"wood/hr_w/hr_wood_paneling_001"
+			"$surfaceprop"		"wood"
+			"$envmapmask"		"wood/hr_w/hr_wood_paneling_001"
+			"$envmap"		"environment maps/metal_generic_002"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 0.25]"
+		}
+	}
+}

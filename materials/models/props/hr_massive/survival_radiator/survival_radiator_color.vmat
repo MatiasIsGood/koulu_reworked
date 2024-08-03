@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/hr_massive/survival_radiator/survival_radiator_color.tga"
+	"TextureNormal"		"materials/models/props/hr_massive/survival_radiator/survival_radiator_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/hr_massive/survival_radiator/survival_radiator_normal_rough.tga"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"legacy_import"
+	{
+		"VertexlitGeneric"
+		{
+			"$basetexture"		"models\props\hr_massive\survival_radiator\survival_radiator_color"
+			"$bumpmap"		"models\props\hr_massive\survival_radiator\survival_radiator_normal"
+			"$normalmapalphaenvmapmask"		"1"
+			"$phong"		"1"
+			"$phongBoost"		"2"
+			"$phongExponent"		"60"
+		}
+	}
+}

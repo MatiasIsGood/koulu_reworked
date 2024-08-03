@@ -1,0 +1,28 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/signs/signs_001_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/signs/signs_001"
+			"$envmapmask"		"models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail"
+			"$envmap"		"environment maps/metal_generic_002"
+			"$detailscale"		"2.500000"
+			"$detailblendfactor"		"0.500000"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 .65]"
+			"$surfaceprop"		"metal"
+		}
+	}
+}

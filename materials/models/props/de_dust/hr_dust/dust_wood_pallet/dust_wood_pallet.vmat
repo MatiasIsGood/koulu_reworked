@@ -1,0 +1,22 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_dust/hr_dust/dust_wood_pallet/dust_wood_pallet_color.tga"
+	"TextureNormal"		"materials/models/props/de_dust/hr_dust/dust_wood_pallet/dust_wood_pallet_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"Wood_Panel"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models\props\de_dust\hr_dust\dust_wood_pallet\dust_wood_pallet_color"
+			"$bumpmap"		"models\props\de_dust\hr_dust\dust_wood_pallet\dust_wood_pallet_normal"
+			"$surfaceprop"		"Wood_Panel"
+		}
+	}
+}

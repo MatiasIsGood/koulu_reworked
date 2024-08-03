@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\coop_cementplant\coop_weapon_rack\coop_weapon_rack_color.vmt"
+}

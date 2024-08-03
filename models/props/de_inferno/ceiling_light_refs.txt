@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_inferno\ceiling_light.vmt"
+	"file"	"materials\models\props\de_inferno\wall_lamp_bulb.vmt"
+	"file"	"materials\models\props\de_inferno\wall_lamp_bulb_off.vmt"
+}

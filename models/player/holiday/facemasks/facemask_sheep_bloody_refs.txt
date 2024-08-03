@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\player\holiday\facemasks\facemask_sheep\facemask_sheep_bloody.vmt"
+}

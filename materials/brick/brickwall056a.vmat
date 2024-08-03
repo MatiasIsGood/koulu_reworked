@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/brick/brickwall056a_color.tga"
+	"TextureLayer1Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"brick"
+	}
+	"legacy_import"
+	{
+		"lightmappedGeneric"
+		{
+			"$baseTexture"		"brick/brickwall056a"
+			"$surfaceprop"		"brick"
+			"%keywords"		"cstrike"
+		}
+	}
+}

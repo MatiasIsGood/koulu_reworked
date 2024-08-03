@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\coop_cementplant\coop_shelf\coop_shelf_color.vmt"
+}

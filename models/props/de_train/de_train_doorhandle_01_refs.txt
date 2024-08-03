@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_train\de_train_doorhandle_01.vmt"
+}

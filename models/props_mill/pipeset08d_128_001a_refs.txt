@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_mill\pipeset08d_128_001a.vmt"
+}

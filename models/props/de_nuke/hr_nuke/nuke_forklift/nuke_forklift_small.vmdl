@@ -1,0 +1,1042 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc36:version{972dada4-b828-45a4-bb93-7795cf0585da} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "PhysicsBodyMarkupList"
+				children = 
+				[
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = ""
+						mass_override = 324.962982
+						inertia_scale = 1.0
+						linear_damping = 0.0
+						angular_damping = 0.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_0_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_0_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_1_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_1_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_2_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_2_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_3_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_3_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_4_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_4_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_5_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_5_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_6_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_6_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_7_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_7_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_8_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_8_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_9_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_9_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_10_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_10_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_11_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_11_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_12_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_12_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_13_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_13_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_14_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_14_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_15_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_15_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_16_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_16_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_17_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_17_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_18_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_18_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_19_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_19_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_20_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_20_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_21_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_21_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_22_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_22_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_23_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_23_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_24_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_24_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_25_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_25_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_26_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_26_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_27_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_27_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_28_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_28_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_29_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_29_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_30_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_30_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_31_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_31_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_32_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_32_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_33_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_33_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_34_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_34_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_35_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_35_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_36_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_36_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "nuke_forklift_small_physbox_37_mesh"
+						parent_bone = ""
+						surface_prop = "metal"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/phys/nuke_forklift_small_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"nuke_forklift_small_physbox_37_mesh",
+							]
+						}
+					},
+				]
+				leave_body_collision_unmodified = false
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "nuke_forklift_small_bg_body_lod0"
+						filename = "/models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_refs/mesh/nuke_forklift_small_bg_body_lod0.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

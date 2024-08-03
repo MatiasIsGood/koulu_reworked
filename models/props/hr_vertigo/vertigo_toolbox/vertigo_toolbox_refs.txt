@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\hr_vertigo\vertigo_toolbox\vertigo_toolbox_color.vmt"
+}

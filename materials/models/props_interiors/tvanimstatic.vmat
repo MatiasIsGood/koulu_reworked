@@ -1,0 +1,32 @@
+"Layer0"
+{
+	"Shader"		"csgo_unlitgeneric.vfx"
+	"F_UNLIT"		"1"
+	"TextureColor"		"materials/models/props_interiors/tvanimstatic_color.mks"
+	"F_BLEND_MODE"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"glass"
+	}
+	"legacy_import"
+	{
+		"UnLitGeneric"
+		{
+			"$basetexture"		"models\props_interiors/TVanimstatic"
+			"$color2"		"[.43 .43 .43]"
+			"$envmap"		"env_cubemap"
+			"$envmapmask"		"models\props_interiors\TVstatic_ref"
+			"$surfaceprop"		"glass"
+			"$selfillumtint"		"[.7 .7 .7]"
+			"Proxies"
+			{
+				"AnimatedTexture"
+				{
+					"animatedTextureVar"		"$basetexture"
+					"animatedTextureFrameNumVar"		"$frame"
+					"animatedTextureFrameRate"		"15"
+				}
+			}
+		}
+	}
+}

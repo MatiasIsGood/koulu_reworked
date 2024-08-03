@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_office\tv_plasma.vmt"
+}

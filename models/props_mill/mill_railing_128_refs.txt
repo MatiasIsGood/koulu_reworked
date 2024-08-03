@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_mill\mill_railing.vmt"
+}

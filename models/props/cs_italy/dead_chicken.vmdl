@@ -1,0 +1,439 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc36:version{972dada4-b828-45a4-bb93-7795cf0585da} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "BoneMarkupList"
+				bone_cull_type = "None"
+				primary_root_bone = ""
+			},
+			{
+				_class = "WeightListList"
+				children = 
+				[
+					{
+						_class = "WeightList"
+						name = "bonemask_default"
+						default_weight = 0.0
+						weights = 
+						[
+							{
+								bone = "joint1"
+								weight = 1.0
+							},
+						]
+						master_morph_weight = -1.0
+						morph_weights = [  ]
+					},
+				]
+			},
+			{
+				_class = "Skeleton"
+				children = 
+				[
+					{
+						_class = "Bone"
+						name = "joint1"
+						children = 
+						[
+							{
+								_class = "Bone"
+								name = "joint2"
+								children = 
+								[
+									{
+										_class = "Bone"
+										name = "joint3"
+										origin = [ 34.670967, 3.826019, 0.042017 ]
+										angles = [ 0.000005, -89.701935, -179.999985 ]
+										do_not_discard = false
+									},
+									{
+										_class = "Bone"
+										name = "joint4"
+										origin = [ 34.607822, -3.393408, 0.042016 ]
+										angles = [ 0.000005, -89.559212, -179.999985 ]
+										do_not_discard = false
+									},
+								]
+								origin = [ 3.304147, -0.089361, -0.0 ]
+								angles = [ 0.0, -1.560809, -0.000005 ]
+								do_not_discard = false
+							},
+						]
+						origin = [ -0.0, 19.117161, -0.0 ]
+						angles = [ -0.0, -91.245361, 179.999985 ]
+						do_not_discard = false
+					},
+				]
+			},
+			{
+				_class = "PhysicsBodyMarkupList"
+				children = 
+				[
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = "joint1"
+						mass_override = 1.0
+						inertia_scale = 10.0
+						linear_damping = 0.01
+						angular_damping = 1.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = "joint2"
+						mass_override = 5.70994
+						inertia_scale = 10.0
+						linear_damping = 0.01
+						angular_damping = 1.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = "joint4"
+						mass_override = 1.0
+						inertia_scale = 10.0
+						linear_damping = 0.01
+						angular_damping = 1.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = "joint3"
+						mass_override = 1.0
+						inertia_scale = 10.0
+						linear_damping = 0.01
+						angular_damping = 1.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
+					},
+				]
+			},
+			{
+				_class = "PhysicsJointList"
+				children = 
+				[
+					{
+						_class = "PhysicsJointConical"
+						parent_body = "joint1"
+						child_body = "joint2"
+						anchor_origin = [ 3.304148, -0.089361, -0.0 ]
+						anchor_angles = [ 89.999992, -1.560815, 0.0 ]
+						collision_enabled = false
+						friction = 8.0
+						enable_swing_limit = true
+						swing_limit = 52.5
+						swing_offset_angle = [ 0.0, 0.0, 0.0 ]
+						enable_twist_limit = true
+						min_twist_angle = -60.0
+						max_twist_angle = 45.0
+					},
+					{
+						_class = "PhysicsJointConical"
+						parent_body = "joint2"
+						child_body = "joint4"
+						anchor_origin = [ 34.607826, -3.393403, 0.042016 ]
+						anchor_angles = [ -89.999992, 90.440781, 0.0 ]
+						collision_enabled = false
+						friction = 12.0
+						enable_swing_limit = true
+						swing_limit = 62.5
+						swing_offset_angle = [ 0.0, 0.0, 0.0 ]
+						enable_twist_limit = true
+						min_twist_angle = -60.0
+						max_twist_angle = 65.0
+					},
+					{
+						_class = "PhysicsJointConical"
+						parent_body = "joint2"
+						child_body = "joint3"
+						anchor_origin = [ 34.670975, 3.826022, 0.042017 ]
+						anchor_angles = [ -89.999992, 90.298058, 0.0 ]
+						collision_enabled = false
+						friction = 12.0
+						enable_swing_limit = true
+						swing_limit = 62.5
+						swing_offset_angle = [ 0.0, 0.0, 0.0 ]
+						enable_twist_limit = true
+						min_twist_angle = -60.0
+						max_twist_angle = 65.0
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsHullFile"
+						name = "joint1_0_mesh"
+						parent_bone = "joint1"
+						surface_prop = "carpet"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/cs_italy/dead_chicken_refs/phys/dead_chicken_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"joint1_0_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "joint2_0_mesh"
+						parent_bone = "joint2"
+						surface_prop = "carpet"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/cs_italy/dead_chicken_refs/phys/dead_chicken_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"joint2_0_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "joint4_0_mesh"
+						parent_bone = "joint4"
+						surface_prop = "carpet"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/cs_italy/dead_chicken_refs/phys/dead_chicken_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"joint4_0_mesh",
+							]
+						}
+					},
+					{
+						_class = "PhysicsHullFile"
+						name = "joint3_0_mesh"
+						parent_bone = "joint3"
+						surface_prop = "carpet"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, 0.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/props/cs_italy/dead_chicken_refs/phys/dead_chicken_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						small_element_threshold = 0.0
+						thin_element_threshold = 0.0
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"joint3_0_mesh",
+							]
+						}
+					},
+				]
+				leave_body_collision_unmodified = false
+			},
+			{
+				_class = "HitboxSetList"
+				children = 
+				[
+					{
+						_class = "HitboxSet"
+						name = "default"
+						children = 
+						[
+							{
+								_class = "Hitbox"
+								parent_bone = "joint2"
+								surface_property = "carpet"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -0.112149, -3.730183, -4.103004 ]
+								hitbox_maxs = [ 40.209404, 4.107869, 1.875122 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "joint3"
+								surface_property = "carpet"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -6.752107, -2.176207, -2.334522 ]
+								hitbox_maxs = [ 1.80074, 1.79046, 2.990237 ]
+							},
+							{
+								_class = "Hitbox"
+								parent_bone = "joint4"
+								surface_property = "carpet"
+								translation_only = false
+								group_id = 0
+								hitbox_mins = [ -1.781803, -2.275403, -2.334524 ]
+								hitbox_maxs = [ 6.766146, 1.686413, 2.990236 ]
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						name = "dead_chicken_bg_chicken_lod0"
+						filename = "/models/props/cs_italy/dead_chicken_refs/mesh/dead_chicken_bg_chicken_lod0.dmx"
+						import_scale = 1.0
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+			{
+				_class = "AnimationList"
+				children = 
+				[
+					{
+						_class = "AnimFile"
+						name = "idle"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = "bonemask_default"
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props/cs_italy/dead_chicken_refs/anim/_idle_0.dmx"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "ragdoll"
+						activity_name = "ACT_DIERAGDOLL"
+						activity_weight = 1
+						weight_list_name = "bonemask_default"
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props/cs_italy/dead_chicken_refs/anim/_ragdoll_1.dmx"
+						import_bone_scales = false
+						start_frame = -1
+						end_frame = -1
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "@idle_0"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props/cs_italy/dead_chicken_refs/anim/_idle_0.dmx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 0
+						framerate = 30.0
+						reverse = false
+					},
+					{
+						_class = "AnimFile"
+						name = "@ragdoll_1"
+						activity_name = ""
+						activity_weight = 1
+						weight_list_name = ""
+						fade_in_time = 0.2
+						fade_out_time = 0.2
+						looping = false
+						delta = false
+						worldSpace = false
+						hidden = false
+						anim_markup_ordered = false
+						disable_compression = false
+						animgraph_additive = false
+						source_filename = "models/props/cs_italy/dead_chicken_refs/anim/_ragdoll_1.dmx"
+						import_bone_scales = false
+						start_frame = 0
+						end_frame = 0
+						framerate = 30.0
+						reverse = false
+					},
+				]
+				default_root_bone_name = ""
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		document_sub_type = "ModelDocSubType_None"
+	}
+}

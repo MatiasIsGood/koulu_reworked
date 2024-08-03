@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\cs_italy\market_dolly01.vmt"
+}

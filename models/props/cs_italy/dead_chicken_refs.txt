@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_italy\chicken.vmt"
+	"file"	"materials\debug\debugempty.vmt"
+}

@@ -1,0 +1,30 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_interiors/tvstatic_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"1.000000"
+	"TextureRoughness"		"materials/models/props_interiors/tvstatic_ref_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"glass"
+	}
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models\props_interiors/TVstatic"
+			"$envmap"		"env_cubemap"
+			"$envmapmask"		"models\props_interiors\TVstatic_ref"
+			"$surfaceprop"		"glass"
+			"$envmaptint"		"[1 1 1]"
+			"vertexlitgeneric_HDR_dx9"
+			{
+				"$envmaptint"		"[.5 .5 .5]"
+			}
+		}
+	}
+}

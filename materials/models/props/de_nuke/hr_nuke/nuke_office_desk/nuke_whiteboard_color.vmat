@@ -1,0 +1,30 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_whiteboard_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_whiteboard_color_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureTintMask"		"[1.000000 1.000000 1.000000 0.000000]"
+	"F_TINT_MASK"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"plastic"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_whiteboard_color"
+			"$blendtintbybasealpha"		"1"
+			"$envmapmask"		"models/props/de_nuke/hr_nuke/nuke_office_desk/nuke_whiteboard_color"
+			"$envmap"		"environment maps/metal_generic_001"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 1.2]"
+			"$envmapcontrast"		"0.700000"
+			"$surfaceprop"		"plastic"
+		}
+	}
+}

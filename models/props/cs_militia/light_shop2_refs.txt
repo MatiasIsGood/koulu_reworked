@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_militia\light_shop2.vmt"
+}

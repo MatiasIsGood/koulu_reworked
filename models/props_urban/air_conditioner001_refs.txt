@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_urban\airconditioner001.vmt"
+}

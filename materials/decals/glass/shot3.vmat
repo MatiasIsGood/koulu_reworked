@@ -1,0 +1,14 @@
+"Layer0"
+{
+	"Shader"		"csgo_decalmodulate.vfx"
+	"DecalColor"		"materials/decals/glass/shot3_color.tga"
+	"F_OVERLAY"		"1"
+	"legacy_import"
+	{
+		"DecalModulate"
+		{
+			"$basetexture"		"Decals/glass/shot3"
+			"$decalscale"		"0.110000"
+		}
+	}
+}

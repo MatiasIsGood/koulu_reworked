@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_street\warehouse_vent_pipes.vmt"
+}

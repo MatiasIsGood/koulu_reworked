@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\gg_vietnam\mattress02.vmt"
+}

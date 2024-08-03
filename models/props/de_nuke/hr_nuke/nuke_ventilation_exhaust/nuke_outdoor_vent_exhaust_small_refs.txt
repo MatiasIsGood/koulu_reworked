@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_nuke\hr_nuke\nuke_ventilation_exhaust\nuke_ventilation_exhaust_small_color.vmt"
+}

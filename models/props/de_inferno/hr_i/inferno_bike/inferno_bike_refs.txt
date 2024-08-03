@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_inferno\hr_i\inferno_bike\inferno_bike_color.vmt"
+}

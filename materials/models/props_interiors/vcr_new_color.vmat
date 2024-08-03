@@ -1,0 +1,30 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_interiors/vcr_new_color.tga"
+	"TextureNormal"		"materials/models/props_interiors/vcr_new_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props_interiors/vcr_new_normal_rough.tga"
+	"F_SPECULAR_DIRECT"		"1"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureSelfIllumMask"		"materials/models/props_interiors/vcr_new_color_selfillum.tga"
+	"F_SELF_ILLUM"		"1"
+	"TextureTintMask"		"materials/models/props_interiors/vcr_new_color_tintmask.tga"
+	"F_TINT_MASK"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models\props_interiors/vcr_new_color"
+			"$bumpmap"		"models\props_interiors/vcr_new_normal"
+			"$blendtintbybasealpha"		"1"
+			"$selfillum"		"1"
+			"$normalmapalphaenvmapmask"		"1"
+			"$phong"		"1"
+			"$phongBoost"		"2"
+			"$phongExponent"		"35"
+			"$phongfresnelranges"		"[0.8 0.8 1]"
+		}
+	}
+}

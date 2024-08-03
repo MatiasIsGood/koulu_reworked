@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_vertigo\vertigo_ibeam.vmt"
+}

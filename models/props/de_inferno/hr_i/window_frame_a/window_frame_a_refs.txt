@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_inferno\hr_i\window_frame_a\window_frame_a.vmt"
+}

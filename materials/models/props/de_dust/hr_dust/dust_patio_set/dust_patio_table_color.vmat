@@ -1,0 +1,27 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_dust/hr_dust/dust_patio_set/dust_patio_table_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_dust/hr_dust/dust_patio_set/dust_patio_table_mask_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"VertexlitGeneric"
+		{
+			"$basetexture"		"models\props\de_dust\hr_dust\dust_patio_set\dust_patio_table_color"
+			"$envmap"		"models\props\de_dust\hr_dust\dust_cubemap\dust_cubemap"
+			"$envmapmask"		"models\props\de_dust\hr_dust\dust_patio_set\dust_patio_table_mask"
+			"$envmapcontrast"		"0.800000"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 1]"
+			"$surfaceprop"		"metal"
+		}
+	}
+}

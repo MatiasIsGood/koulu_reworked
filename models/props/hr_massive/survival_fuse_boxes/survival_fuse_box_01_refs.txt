@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\hr_massive\survival_fuse_boxes\survival_fuse_box_01_color.vmt"
+}

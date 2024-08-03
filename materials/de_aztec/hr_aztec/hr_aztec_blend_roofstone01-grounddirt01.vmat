@@ -1,0 +1,48 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/de_aztec/hr_aztec/hr_aztec_roof_stone_01_grey_color.tga"
+	"TextureLayer1Normal"		"materials/de_aztec/hr_aztec/hr_aztec_roof_stone_01_grey_normal.tga"
+	"TextureLayer1Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureLayer2Color"		"materials/de_aztec/hr_aztec/hr_aztec_ground_dirt_01_color.tga"
+	"TextureLayer2Normal"		"materials/de_aztec/hr_aztec/hr_aztec_ground_dirt_01_normal.tga"
+	"TextureLayer2Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer2AmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureBlendModulation"		"materials/de_aztec/hr_aztec/hr_aztec_roof_stone_01_blend.tga"
+	"F_LAYERS"		"1"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"g_vLayer2Tint"		"[1.000000 1.000000 1.000000]"
+	"g_vLayerBorderTint"		"[0.676821 0.631744 0.575048]"
+	"g_flBlendSoftness"		"0.010000"
+	"g_flLayerBorderStrength"		"0.100000"
+	"g_flLayerBorderOffset"		"0.010000"
+	"g_flLayerBorderSoftness"		"0.080000"
+	"F_FANCY_BLENDING"		"2"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"rock"
+		"PhysicsSurfaceProperties2"		"dirt"
+	}
+	"legacy_import"
+	{
+		"WorldVertexTransition"
+		{
+			"$baseTexture"		"de_aztec/hr_aztec/hr_aztec_roof_stone_01_grey_color"
+			"$bumpmap"		"de_aztec/hr_aztec/hr_aztec_roof_stone_01_grey_normal"
+			"$baseTexture2"		"de_aztec/hr_aztec/hr_aztec_ground_dirt_01_color"
+			"$bumpmap2"		"de_aztec/hr_aztec/hr_aztec_ground_dirt_01_normal"
+			"$blendmodulatetexture"		"de_aztec/hr_aztec/hr_aztec_roof_stone_01_blend"
+			"$NEWLAYERBLENDING"		"1"
+			"$BLENDSOFTNESS"		"0.010000"
+			"$LAYERBORDERSTRENGTH"		"0.100000"
+			"$LAYERBORDEROFFSET"		"0.010000"
+			"$LAYERBORDERSOFTNESS"		"0.080000"
+			"$LAYERBORDERTINT"		"{106 91 74}"
+			"$surfaceprop"		"rock"
+			"$surfaceprop2"		"dirt"
+			"%keywords"		"roof,stone,dirt,rock,blend,aztec"
+		}
+	}
+}

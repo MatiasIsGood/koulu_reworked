@@ -1,0 +1,17 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/hr_massive/rural_door_1/rural_door_2_color.tga"
+	"TextureNormal"		"materials/models/props/hr_massive/rural_door_1/rural_door_2_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models\props\hr_massive\rural_door_1\rural_door_2"
+			"$bumpmap"		"models\props\hr_massive\rural_door_1\rural_door_2_normal"
+		}
+	}
+}

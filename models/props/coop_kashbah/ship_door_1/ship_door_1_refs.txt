@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\coop_kashbah\ship_door_1\ship_door_1.vmt"
+}

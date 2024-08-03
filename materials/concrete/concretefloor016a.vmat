@@ -1,0 +1,34 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/concrete/concretefloor016a_color.tga"
+	"TextureLayer1Normal"		"materials/concrete/concretefloor016a_normal.tga"
+	"TextureLayer1Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"TextureLayer1Detail"		"materials/detail/noise_detail_01_color.tga"
+	"g_vLayer1DetailScale"		"[7.345000 7.345000]"
+	"g_vLayer1DetailTintAndBlend"		"[1.000000 1.000000 1.000000 0.600000]"
+	"F_DETAILTEXTURE"		"1"
+	"F_DETAILBLENDMODE"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"concrete"
+	}
+	"legacy_import"
+	{
+		"LightmappedGeneric"
+		{
+			"$basetexture"		"Concrete/concretefloor016a"
+			"$surfaceprop"		"concrete"
+			"$detail"		"detail\noise_detail_01"
+			"$detailscale"		"7.345000"
+			"$detailblendfactor"		"0.600000"
+			"$detailblendmode"		"0"
+			"%keywords"		"c17downtown"
+			"$bumpmap"		"concrete\concretefloor016a_normal"
+		}
+	}
+}

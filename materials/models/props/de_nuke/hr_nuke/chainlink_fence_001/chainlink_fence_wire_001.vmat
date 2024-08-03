@@ -1,0 +1,29 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_wire_001_mip0_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureTranslucency"		"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_wire_001_mip0_trans.tga"
+	"F_ALPHA_TEST"		"1"
+	"g_flAlphaTestReference"		"0.400000"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"chainlink"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_wire_001_mip0"
+			"$alphatest"		"1"
+			"$allowalphatocoverage"		"1"
+			"$alphatestreference"		"0.400000"
+			"$nodecal"		"1"
+			"$model"		"1"
+			"$surfaceprop"		"chainlink"
+		}
+	}
+}

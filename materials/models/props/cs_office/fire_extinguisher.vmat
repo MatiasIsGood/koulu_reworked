@@ -1,0 +1,19 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/cs_office/fire_extinguisher_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/cs_office/fire_extinguisher_ref_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models\props\cs_office\fire_extinguisher"
+			"$envmap"		"env_cubemap"
+			"$envmapmask"		"models\props\cs_office\fire_extinguisher_ref"
+		}
+	}
+}

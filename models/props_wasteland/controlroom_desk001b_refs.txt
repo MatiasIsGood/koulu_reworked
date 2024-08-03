@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_wasteland\controlroom_tables001.vmt"
+}

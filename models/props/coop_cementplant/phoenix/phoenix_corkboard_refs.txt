@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props\coop_cementplant\phoenix\phoenix_corkboard_color.vmt"
+	"file"	"materials\models\props\coop_cementplant\phoenix\phoenix_corkboard_note_color.vmt"
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_junk\shoe001a.vmt"
+}

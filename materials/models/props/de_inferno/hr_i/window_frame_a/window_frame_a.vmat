@@ -1,0 +1,28 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/wood/hr_w/inferno/hr_wood_b_color.tga"
+	"g_vTexCoordCenter"		"[0.500000 0.500000]"
+	"g_vTexCoordScale"		"[2.000000 2.000000]"
+	"g_vTexCoordRotation"		"0.000000"
+	"g_vTexCoordOffset"		"[0.000000 0.000000]"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/models/props/de_inferno/hr_i/window_frame_a/window_frame_a_ao.tga"
+	"g_flAmbientOcclusionScale"		"1.000000"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/default/default_rough_s1import.tga"
+	"TextureTintMask"		"materials/wood/hr_w/inferno/hr_wood_b_tintmask.tga"
+	"F_TINT_MASK"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"wood/hr_w/inferno/hr_wood_b"
+			"$detail"		"models\props\de_inferno\hr_i\window_frame_a\window_frame_a_ao.vtf"
+			"$basetexturetransform"		"center .5 .5 scale 2 2 rotate 0 translate 0 0"
+			"$detailscale"		"[1 1 1]"
+			"$detailblendfactor"		"1"
+			"$blendtintbybasealpha"		"1"
+		}
+	}
+}

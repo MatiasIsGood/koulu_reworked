@@ -1,0 +1,38 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_color_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureTintMask"		"materials/models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_color_tintmask.tga"
+	"F_TINT_MASK"		"1"
+	"TextureDetail"		"materials/models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail.tga"
+	"g_vDetailTexCoordScale"		"[5.000000 2.500000]"
+	"g_flDetailBlendFactor"		"0.800000"
+	"F_DETAIL_TEXTURE"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_color"
+			"$blendtintbybasealpha"		"1"
+			"$detail"		"models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail"
+			"$detailscale"		"[5 2.5]"
+			"$detailblendfactor"		"0.800000"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 0.5]"
+			"$envmap"		"environment maps/metal_generic_006"
+			"$envmapmask"		"models/props/de_nuke/hr_nuke/nuke_forklift/nuke_forklift_small_color"
+			"$envmapcontrast"		"0.200000"
+			"$envmapsaturation"		"0.250000"
+			"$surfaceprop"		"metal"
+		}
+	}
+}

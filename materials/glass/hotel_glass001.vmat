@@ -1,0 +1,32 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/glass/hotel_glass001_color.tga"
+	"TextureLayer1Translucency"		"materials/glass/hotel_glass001_trans.tga"
+	"F_TRANSLUCENT"		"1"
+	"g_flCubeMapScalar"		"0.100000"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureLayer1Roughness"		"[0.738500 0.738500 0.738500 1.000000]"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"glass"
+	}
+	"legacy_import"
+	{
+		"LightmappedGeneric"
+		{
+			"$basetexture"		"glass/hotel_glass001"
+			"$envmap"		"env_cubemap"
+			"$surfaceprop"		"glass"
+			"%keywords"		"c17industrial"
+			"$translucent"		"1"
+			"$envmapcontrast"		"1"
+			"$envmapsaturation"		"1"
+			"$envmaptint"		"[.1 .1 .1]"
+		}
+	}
+}

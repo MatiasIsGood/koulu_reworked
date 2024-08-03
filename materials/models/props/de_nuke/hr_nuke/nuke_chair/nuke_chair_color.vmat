@@ -1,0 +1,24 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/nuke_chair/nuke_chair_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_nuke/hr_nuke/nuke_chair/nuke_chair_color_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureTintMask"		"materials/models/props/de_nuke/hr_nuke/nuke_chair/nuke_chair_color_tintmask.tga"
+	"F_TINT_MASK"		"1"
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/nuke_chair/nuke_chair_color"
+			"$blendtintbybasealpha"		"1"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 0.4]"
+			"$envmap"		"models/props/de_nuke/hr_nuke/metal_railing_001/metal_railing_cube"
+			"$envmapmask"		"models/props/de_nuke/hr_nuke/nuke_chair/nuke_chair_color"
+		}
+	}
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_plants\plantairport01_super.vmt"
+}

@@ -1,0 +1,44 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/nuke_vending_machine/nuke_vending_machine_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_nuke/hr_nuke/nuke_vending_machine/nuke_vending_machine_mask_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureSelfIllumMask"		"materials/models/props/de_nuke/hr_nuke/nuke_vending_machine/nuke_vending_machine_illum_selfillum.tga"
+	"F_SELF_ILLUM"		"1"
+	"g_vSelfIllumTint"		"[1.000000 1.000000 1.000000]"
+	"g_flSelfIllumScale"		"1.000000"
+	"TextureTintMask"		"materials/models/props/de_nuke/hr_nuke/nuke_vending_machine/nuke_vending_machine_color_tintmask.tga"
+	"F_TINT_MASK"		"1"
+	"TextureDetail"		"materials/models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail.tga"
+	"g_vDetailTexCoordScale"		"[2.000000 2.000000]"
+	"g_flDetailBlendFactor"		"0.800000"
+	"F_DETAIL_TEXTURE"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/nuke_vending_machine/nuke_vending_machine_color"
+			"$blendtintbybasealpha"		"1"
+			"$selfillum"		"1"
+			"$selfillummask"		"models/props/de_nuke/hr_nuke/nuke_vending_machine/nuke_vending_machine_illum"
+			"$selfillumtint"		"[1 1 1]"
+			"$detail"		"models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail"
+			"$detailblendfactor"		"0.800000"
+			"$detailscale"		"2"
+			"$envmapmask"		"models/props/de_nuke/hr_nuke/nuke_vending_machine/nuke_vending_machine_mask"
+			"$envmap"		"environment maps/metal_generic_001"
+			"$envmapcontrast"		"0.950000"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 2]"
+			"$surfaceprop"		"metal"
+		}
+	}
+}

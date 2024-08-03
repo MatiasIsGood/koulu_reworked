@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_doors\dust_door_46x106_04.vmt"
+}

@@ -1,0 +1,35 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/metal/hr_metal/hr_metal_floor_001_color.tga"
+	"TextureLayer1Roughness"		"materials/metal/hr_metal/hr_metal_floor_001_color_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"TextureLayer1Detail"		"materials/asphalt/hr_c/hr_asphalt_001_detail_color.tga"
+	"g_vLayer1DetailScale"		"[0.025000 0.025000]"
+	"g_vLayer1DetailTintAndBlend"		"[1.000000 1.000000 1.000000 0.750000]"
+	"F_DETAILTEXTURE"		"1"
+	"F_DETAILBLENDMODE"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"lightmappedgeneric"
+		{
+			"$basetexture"		"metal/hr_metal/hr_metal_floor_001_color"
+			"$surfaceprop"		"metal"
+			"$detail"		"asphalt/hr_c/hr_asphalt_001_detail"
+			"$detailscale"		"0.025000"
+			"$detailblendfactor"		"0.750000"
+			"$basealphaenvmapmask"		"1"
+			"$envmap"		"environment maps/metal_generic_002"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 0.9]"
+		}
+	}
+}

@@ -1,0 +1,34 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/nuke_ventilation_exhaust/nuke_ventilation_exhaust_small_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_nuke/hr_nuke/nuke_ventilation_exhaust/nuke_ventilation_exhaust_small_color_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureDetail"		"materials/models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail.tga"
+	"g_vDetailTexCoordScale"		"[2.270000 2.270000]"
+	"g_flDetailBlendFactor"		"1.000000"
+	"F_DETAIL_TEXTURE"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/nuke_ventilation_exhaust/nuke_ventilation_exhaust_small_color"
+			"$detail"		"models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail"
+			"$detailscale"		"2.270000"
+			"$detailblendfactor"		"1"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 0.5]"
+			"$envmapmask"		"models/props/de_nuke/hr_nuke/nuke_ventilation_exhaust/nuke_ventilation_exhaust_small_color"
+			"$envmap"		"models/props/de_nuke/hr_nuke/metal_railing_001/metal_railing_cube"
+			"$envmapcontrast"		"0.200000"
+			"$surfaceprop"		"metal"
+		}
+	}
+}

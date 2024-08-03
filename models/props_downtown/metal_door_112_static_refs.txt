@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props_downtown\metal_door.vmt"
+}

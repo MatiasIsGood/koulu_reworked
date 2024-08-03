@@ -1,0 +1,29 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/hr_vertigo/vertigo_toolbox/vertigo_toolbox_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/hr_vertigo/vertigo_toolbox/vertigo_toolbox_mask_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureTintMask"		"materials/models/props/hr_vertigo/vertigo_toolbox/vertigo_toolbox_tint_tintmask.tga"
+	"F_TINT_MASK"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"VertexlitGeneric"
+		{
+			"$basetexture"		"models\props\hr_vertigo\vertigo_toolbox\vertigo_toolbox_color"
+			"$tintmasktexture"		"models\props\hr_vertigo\vertigo_toolbox\vertigo_toolbox_tint"
+			"$envmapmask"		"models\props\hr_vertigo\vertigo_toolbox\vertigo_toolbox_mask"
+			"$envmap"		"models\props\de_nuke\hr_nuke\metal_railing_001\metal_railing_cube"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 1.5]"
+			"$surfaceprop"		"metal"
+		}
+	}
+}

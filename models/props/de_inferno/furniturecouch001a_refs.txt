@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_inferno\furniturecouch001a.vmt"
+}

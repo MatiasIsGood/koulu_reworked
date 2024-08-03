@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\foliage\sagebrush_01.vmt"
+}

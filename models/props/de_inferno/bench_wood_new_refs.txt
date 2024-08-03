@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_inferno\bench_wood_color.vmt"
+}

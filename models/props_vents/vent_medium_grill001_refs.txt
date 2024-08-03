@@ -1,0 +1,6 @@
+importfilelist
+{
+	"file"	"materials\models\props_vents\borealis_vent001.vmt"
+	"file"	"materials\models\props_vents\borealis_vent001b.vmt"
+	"file"	"materials\models\props_vents\borealis_vent001c.vmt"
+}

@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\hr_vertigo\vertigo_elevator\elevator_door_color.vmt"
+}

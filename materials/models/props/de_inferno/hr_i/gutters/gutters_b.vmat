@@ -1,0 +1,26 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_inferno/hr_i/gutters/gutters_b_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/models/props/de_inferno/hr_i/gutters/gutters_b_ao.tga"
+	"g_flAmbientOcclusionScale"		"2.000000"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.500000"
+	"TextureRoughness"		"materials/models/props/de_inferno/hr_i/gutters/gutters_b_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models\props\de_inferno\hr_i\gutters\gutters_b.vtf"
+			"$basealphaenvmapmask"		"1"
+			"$detail"		"models\props\de_inferno\hr_i\gutters\gutters_b_ao.vtf"
+			"$detailscale"		"[1 1]"
+			"$detailblendfactor"		"2"
+			"$envmapfresnel"		"0.500000"
+			"$envmaptint"		"[.5 .5 .5]"
+			"$envmap"		"env_cubemap"
+		}
+	}
+}

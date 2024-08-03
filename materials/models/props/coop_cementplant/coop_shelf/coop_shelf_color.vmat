@@ -1,0 +1,29 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/coop_cementplant/coop_shelf/coop_shelf_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/coop_cementplant/coop_shelf/coop_shelf_mask_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureDetail"		"materials/models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail.tga"
+	"g_vDetailTexCoordScale"		"[2.000000 2.000000]"
+	"g_flDetailBlendFactor"		"1.000000"
+	"F_DETAIL_TEXTURE"		"1"
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/coop_cementplant/coop_shelf/coop_shelf_color"
+			"$envmaplightscale"		"1"
+			"$envmaplightscaleminmax"		"[0 1.5]"
+			"$detail"		"models/props/de_nuke/hr_nuke/metal_crate_001/metal_crate_001_detail"
+			"$detailscale"		"[2 2 2]"
+			"$detailblendfactor"		"1"
+			"$envmap"		"environment maps/metal_generic_001"
+			"$envmapmask"		"models/props/coop_cementplant/coop_shelf/coop_shelf_mask"
+			"$envmapcontrast"		"0.200000"
+		}
+	}
+}

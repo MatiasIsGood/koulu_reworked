@@ -1,0 +1,28 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_train/lockers_long_new_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"0.800000"
+	"TextureRoughness"		"materials/models/props/de_train/lockers_long_new_color_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureDetail"		"materials/detail/dt_metal1_detail.tga"
+	"g_vDetailTexCoordScale"		"[8.000000 8.000000]"
+	"g_flDetailBlendFactor"		"0.500000"
+	"F_DETAIL_TEXTURE"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$basetexture"		"models\props\de_train\lockers_long_new_color"
+			"$basealphaenvmapmask"		"1"
+			"$detail"		"detail\dt_metal1"
+			"$detailscale"		"[8 8 8]"
+			"$detailblendfactor"		"0.500000"
+			"$envmap"		"env_cubemap"
+			"$envmaptint"		"[.8 .8 .8]"
+		}
+	}
+}

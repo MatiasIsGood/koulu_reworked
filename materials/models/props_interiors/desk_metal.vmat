@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props_interiors/desk_metal_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"g_flCubeMapScalar"		"1.000000"
+	"TextureRoughness"		"materials/models/props_interiors/desk_metal_ref_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"legacy_import"
+	{
+		"VertexLitGeneric"
+		{
+			"$baseTexture"		"models\props_interiors/desk_metal"
+			"$envmap"		"env_cubemap"
+			"$envmapmask"		"models\props_interiors\desk_metal_ref"
+			"$envmaptint"		"[1 1 1]"
+			"$envmapcontrast"		"0.800000"
+			"$envmapsaturation"		"0.200000"
+		}
+	}
+}

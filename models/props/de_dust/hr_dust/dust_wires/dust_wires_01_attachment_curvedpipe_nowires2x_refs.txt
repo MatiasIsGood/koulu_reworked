@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\de_dust\hr_dust\dust_wires\dust_wire_attachments_01.vmt"
+}

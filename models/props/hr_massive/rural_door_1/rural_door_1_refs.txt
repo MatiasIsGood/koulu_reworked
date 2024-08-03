@@ -1,0 +1,7 @@
+importfilelist
+{
+	"file"	"materials\models\props\hr_massive\rural_door_1\rural_door_1.vmt"
+	"file"	"materials\models\props\hr_massive\rural_door_1\rural_door_2.vmt"
+	"file"	"materials\models\props\hr_massive\rural_door_1\rural_door_3.vmt"
+	"file"	"materials\models\props\hr_massive\rural_door_1\rural_door_4.vmt"
+}

@@ -1,0 +1,37 @@
+"Layer0"
+{
+	"Shader"		"csgo_vertexlitgeneric.vfx"
+	"TextureColor"		"materials/models/props/de_nuke/hr_nuke/metal_railing_001/metal_railing_001b_color.tga"
+	"TextureNormal"		"materials/default/default_normal.tga"
+	"TextureAmbientOcclusion"		"materials/default/default_ao.tga"
+	"TextureMetalness"		"[0.000000 0.000000 0.000000]"
+	"TextureRoughness"		"materials/models/props/de_nuke/hr_nuke/metal_railing_001/metal_railing_001b_rough.tga"
+	"F_SPECULAR_INDIRECT"		"1"
+	"TextureTintMask"		"materials/models/props/de_nuke/hr_nuke/metal_railing_001/metal_railing_001b_tintmask.tga"
+	"F_TINT_MASK"		"1"
+	"TextureDetail"		"materials/models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_detail_001_detail.tga"
+	"g_vDetailTexCoordScale"		"[5.000000 2.500000]"
+	"g_flDetailBlendFactor"		"0.850000"
+	"F_DETAIL_TEXTURE"		"1"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"metal"
+	}
+	"legacy_import"
+	{
+		"vertexlitgeneric"
+		{
+			"$basetexture"		"models/props/de_nuke/hr_nuke/metal_railing_001/metal_railing_001b"
+			"$detail"		"models/props/de_nuke/hr_nuke/chainlink_fence_001/chainlink_fence_detail_001"
+			"$detailscale"		"[5 2.5]"
+			"$detailblendfactor"		"0.850000"
+			"$envmapmask"		"models/props/de_nuke/hr_nuke/metal_railing_001/metal_railing_001b"
+			"$envmap"		"models/props/de_nuke/hr_nuke/metal_railing_001/metal_railing_cube"
+			"$envmaplightscale"		"1"
+			"$envmapsaturation"		"0.650000"
+			"$envmaplightscaleminmax"		"[0 1.0]"
+			"$surfaceprop"		"metal"
+			"$blendtintbybasealpha"		"1"
+		}
+	}
+}

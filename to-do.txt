@@ -1,6 +1,1 @@
-yläovet ikkunat
-köksaluokan osassa ovissa ei oo ääniä / ei mee rikki
-oviin 200 nopeus
-fixaa ovet kemian luokas
-lisää huoneit
-uuden salin ovet ulospäio
+joo sellaseet, cs2 port mut textuurit iha vituilla / groupattuna yhteen osa joten onnee siihe

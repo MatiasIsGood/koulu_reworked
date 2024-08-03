@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"materials\models\props\cs_assault\ventilationduct02.vmt"
+}

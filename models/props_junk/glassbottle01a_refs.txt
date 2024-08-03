@@ -1,0 +1,5 @@
+importfilelist
+{
+	"file"	"materials\models\props_junk\glassbottle01a.vmt"
+	"file"	"materials\models\props_junk\glassbottle01b.vmt"
+}

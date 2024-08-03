@@ -1,0 +1,23 @@
+"Layer0"
+{
+	"Shader"		"csgo_lightmappedgeneric.vfx"
+	"TextureLayer1Color"		"materials/de_chateau/woodm_color.tga"
+	"TextureLayer1Roughness"		"materials/default/default_rough_s1import.tga"
+	"TextureLayer1AmbientOcclusion"		"materials/default/default_ao.tga"
+	"F_LAYERS"		"0"
+	"g_vLayer1Tint"		"[1.000000 1.000000 1.000000]"
+	"F_TEXTURETRANSFORMS"		"0"
+	"SystemAttributes"
+	{
+		"PhysicsSurfaceProperties"		"wood_solid"
+	}
+	"legacy_import"
+	{
+		"lightmappedGeneric"
+		{
+			"$baseTexture"		"de_chateau/woodm"
+			"$surfaceprop"		"wood_solid"
+			"%keywords"		"cstrike"
+		}
+	}
+}

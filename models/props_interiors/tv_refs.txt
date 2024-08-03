@@ -1,0 +1,7 @@
+importfilelist
+{
+	"file"	"materials\models\props_interiors\tvstatic.vmt"
+	"file"	"materials\models\props_interiors\tv.vmt"
+	"file"	"materials\models\props_interiors\tvebstest.vmt"
+	"file"	"materials\models\props_interiors\tvanimstatic.vmt"
+}
